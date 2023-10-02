@@ -63,7 +63,7 @@ career-profile:
     title: Career Profile
     summary: |
       I am an enthusiastic, self-motivated, reliable, responsible, and hardworking individual. 
-      My dedication and commitment to my work drive me to excel in any task I undertake. 
+      My dedication and commitment to my work, drive me to excel in any task I undertake. 
       I take pride in being a mature team player who can adapt to challenging situations effortlessly.
       Whether collaborating with others or working independently, I consistently demonstrate my ability to deliver results. 
       I am skilled at managing pressure and adhering to strict deadlines, ensuring timely completion of tasks without compromising quality. 
@@ -178,6 +178,14 @@ awards:
           Throughout the program, students delve into core courses such as electrical circuits and systems, electronic devices and circuits, 
           digital electronics, and microelectronics. These courses cover the fundamental principles and techniques required to understand and work with electronic components, circuits, and systems.
 
+      - degree: Best presentation award - 2nd prize at CRAS 2023
+        university: Conference on New Technologies for Computer and Robot Assisted Surgery,Paris, France <a href="https://cras-eu.org/cras-2023/" target="_blank" rel="noopener noreferrer">(CRAS2023)</a>
+        time: 2023
+        details: |
+          In this 12th edition, it was related to advances in the following fields: virtual and augmented reality techniques applied to training, planning and assisted guidance; 
+          new techniques to introduce effective haptic feedback; new devices, technologies and procedures for less invasive surgery and to facilitate the execution of complex surgical tasks; 
+          and artificial intelligence for planning, guidance and autonomous operations. For more, see <a href="https://cras-eu.org/cras-2023/" target="_blank" rel="noopener noreferrer">(CRAS2023)</a>.
+          
 experiences:
     title: Experiences
     info:
@@ -290,7 +298,12 @@ publications:
         conference: "IEEE/ASME Transactions on Mechatronics, 2023"
         pdf: pcr.pdf
         bib: pcr.bib
-
+        
+      - title: "Miniaturized Continuum Robot Made of Glass for Biomedical Applications"
+        link: "https://cras-eu.org/program/"
+        authors: Nwafor, Chibundo and Laurent, Guillaume J. and Rabenorosoa, Kanty
+        conference: "CRAS-Conference on New Technologies for Computer and Robot Assisted Surgery, 2023"
+        
 skills:
     title: Skills &amp; Proficiency
 
