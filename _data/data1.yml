@@ -1,0 +1,345 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: NWAFOR Chibundo
+    tagline: Researcher/Doctoral student
+    avatar: Nwaforchibundo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: nwaforchibundo@gmail.com
+    phone: 075 827 9941
+    timezone: France/Besançon Timezone
+    citizenship:
+    website: www.femto-st.fr/en/femto-people/chibundonwafor #blog.webjeda.com #do not add http://
+    linkedin: nwafor-chibundo-66a27b203 #alandoe
+    xing:  #alandoe
+    github: #nwaforchibundo 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter:  # @nwaforsojo1
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: NWAFOR_Chibundo_Resume1.pdf #http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Proficient
+
+        - idiom: French
+          level: Basic
+
+        - idiom: Igbo
+          level: Native
+
+    interests:
+      title: Interests
+      info:
+        - item: Research/Studying
+          link:
+
+        - item: Programming
+          link:
+
+        - item: Sport
+          link:
+          
+        - item: Content creation
+          link:
+          
+    awards: True # set to False if you want education in main section instead of in sidebar
+    
+    
+career-profile:
+    title: Career Profile
+    summary: |
+      I am an enthusiastic, self-motivated, reliable, responsible, and hardworking individual. 
+      My dedication and commitment to my work, drive me to excel in any task I undertake. 
+      I take pride in being a mature team player who can adapt to challenging situations effortlessly.
+      Whether collaborating with others or working independently, I consistently demonstrate my ability to deliver results. 
+      I am skilled at managing pressure and adhering to strict deadlines, ensuring timely completion of tasks without compromising quality. 
+      Here is my [resume/CV](NWAFOR_Chibundo_Resume1.pdf){:target="_blank"}.
+      
+education:
+    title: Education
+    info:
+      - degree: PhD in Engineering Sciences and Microtechnology
+        university: Université Bourgogne Franche-Comté, France <a href="https://spim.ubfc.fr/en/" target="_blank" rel="noopener noreferrer">(UBFC-SPIM)</a>
+        laboratory: AS2M Department FEMTO-ST Institute <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
+        time: 2019 - 2023
+        details: |
+          Continuum robots are gaining increasing interest in medical applications, due to their slender shape and compliant nature which makes them safer for human-to-robot interaction. 
+          In addition, they are able to follow a 3D complex path, thanks to their infinite degrees of freedom. 
+          The goal of this thesis is to take advantage of glass flexibility at the microscale to actualize novel and more miniature continuum robots when compared to those in the literature. 
+          The first contribution is a conceptual study, addressing the design and fabrication of different CTR prototypes and deriving a general  
+          classification approach while proposing to the research community a concise methodology for the evaluation of CTR in the future.  
+          Secondly, we proposed a new generation of a miniaturized sub-millimeter CTR that is made of glass, which has a tube with an external diameter down to 90µm and a 5mm radius of curvature. 
+          Furthermore, we presented a novel, easy, and rapid patient-specific/customizable approach to obtaining a pre-curved tube using glass, which was characterized, followed  
+          by the robot model validation (forward kinematic, inverse kinematics, and stability analysis). Various demonstrations of proofs-of-concept for the different application capabilities 
+          e.g. vitreoretinal deployment in a fish eye, constraint deployment through 3-stationed needles (~1mm orifice), pre-curved helical and fiber optics CTR deployment with laser transmission  
+          capability, and then, fluid suction and delivery. The third contribution was the investigation and demonstration of a miniaturized 3-DoF PCR using glass optical fiber. 
+          The robot design has a dimension of 2.5 x 2.5 x 6mm and can reach +90 to -80 degrees in the tip and tilt angle. The robot's performance such as the workspace, manipulability, and 
+          stiffness was evaluated as a function of variations of different geometrical parameters of the robot. For the model validation, different path movements were presented such as vertical plane
+          circumradius and workspace followed by the circular and square shapes in the horizontal plane, which shows the great prospect of the robot for increasing dexterity in confined space. 
+          Finally, for both cases, the robot design analysis was very important for investigating the robot stability, for CTR due to torsion, and for PCR, due to the actuation length.
+          
+      - degree: MSc in Control for Green Mechatronics (GREEM)
+        university: Université Bourgogne Franche-Comté, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC-GREEM)</a>
+        time: 2017 - 2019
+        details: |
+          The international master on Control for Green Mechatronics (GREEM), within the Robotics and Control mention of the French Ministry of Education, promotes a high-quality educational offer in 
+          the area of design and control of mechatronic systems with a particular focus on two points: their functional performances and their energetic efficiency. 
+          The consideration of the energy efficiency makes the GREEM international master very singular and very innovative and makes it answer a real actual societal matter which is the effect of technological devices to the ecology. 
+
+      - degree: MPhil in Digital Electronics
+        university: University of Nigeria Nsukka, Nigeria <a href="https://www.unn.edu.ng/" target="_blank" rel="noopener noreferrer">(UNN)</a>
+        time: 2016 - deferred
+        details: |
+          Finished course work and about proceeding to the full research before I secured the life changing opportunity to study Mechatonics/Robotics in France.  
+          
+      - degree: BEng in Electrical/Electronic Engineering
+        university: Anambra State University, Uli, Nigeria <a href="https://coou.edu.ng/" target="_blank" rel="noopener noreferrer">(ANSU-COOU)</a>
+        time: 2008 - 2012
+        details: |
+          The personal educational first degree in Electrical/Electronic Engineering with a specialization in Electronics provides a comprehensive foundation in electrical and 
+          electronic systems, focusing specifically on electronic circuits, devices, and their applications. 
+          This degree equips individuals with the necessary knowledge and skills to design, analyze, and troubleshoot electronic systems used in various industries. 
+          The degree program also offers elective courses that allow students to tailor their education to their specific interests and career goals. 
+          Elective options may include power electronics, control systems, signal processing, robotics and automation, photonics and optoelectronics, and wireless sensor networks. 
+          Throughout the program, students delve into core courses such as electrical circuits and systems, electronic devices and circuits, 
+          digital electronics, and microelectronics. These courses cover the fundamental principles and techniques required to understand and work with electronic components, circuits, and systems.
+
+awards:
+    title: Scholarships/Awards
+    info:
+      - degree: Etisalat one year scholarship for top 5 best students 
+        university: Anambra State University, Uli, Nigeria <a href="https://coou.edu.ng/" target="_blank" rel="noopener noreferrer">(ANSU-COOU)</a>
+        time: 2011
+        details: |
+          Continuum robots are gaining increasing interest in medical applications, due to their slender shape and compliant nature which makes them safer for human-to-robot interaction. 
+          In addition, they are able to follow a 3D complex path, thanks to their infinite degrees of freedom. 
+          The goal of this thesis is to take advantage of glass flexibility at the microscale to actualize novel and more miniature continuum robots when compared to those in the literature. 
+          The first contribution is a conceptual study, addressing the design and fabrication of different CTR prototypes and deriving a general  
+          classification approach while proposing to the research community a concise methodology for the evaluation of CTR in the future.  
+          Secondly, we proposed a new generation of a miniaturized sub-millimeter CTR that is made of glass, which has a tube with an external diameter down to 90µm and a 5mm radius of curvature. 
+          Furthermore, we presented a novel, easy, and rapid patient-specific/customizable approach to obtaining a pre-curved tube using glass, which was characterized, followed  
+          by the robot model validation (forward kinematic, inverse kinematics, and stability analysis). Various demonstrations of proofs-of-concept for the different application capabilities 
+          e.g. vitreoretinal deployment in a fish eye, constraint deployment through 3-stationed needles (~1mm orifice), pre-curved helical and fiber optics CTR deployment with laser transmission  
+          capability, and then, fluid suction and delivery. The third contribution was the investigation and demonstration of a miniaturized 3-DoF PCR using glass optical fiber. 
+          The robot design has a dimension of 2.5 x 2.5 x 6mm and can reach +90 to -80 degrees in the tip and tilt angle. The robot's performance such as the workspace, manipulability, and 
+          stiffness was evaluated as a function of variations of different geometrical parameters of the robot. For the model validation, different path movements were presented such as vertical plane
+          circumradius and workspace followed by the circular and square shapes in the horizontal plane, which shows the great prospect of the robot for increasing dexterity in confined space. 
+          Finally, for both cases, the robot design analysis was very important for investigating the robot stability, for CTR due to torsion, and for PCR, due to the actuation length.
+          
+      - degree: Anambra state scholarship/award for first class graduating students 
+        university: Anambra State Government
+        time: 2014
+        details: |
+          The international master on Control for Green Mechatronics (GREEM), within the Robotics and Control mention of the French Ministry of Education, promotes a high-quality educational offer in 
+          the area of design and control of mechatronic systems with a particular focus on two points: their functional performances and their energetic efficiency. 
+          The consideration of the energy efficiency makes the GREEM international master very singular and very innovative and makes it answer a real actual societal matter which is the effect of technological devices to the ecology. 
+
+      - degree: Franco-FUNAI TETFUND scholarship
+        university: Nigeria Government Tertiary Education Trust Fund in collaboration with Campus-France 
+        time: 2017 - 2019
+        details: |
+          Finished course work and about proceeding to the full research before I secured the life changing opportunity to study Mechatonics/Robotics in France.  
+          
+      - degree: Merit award as best graduating student in Faculty of Engineering 2012/2013 session
+        university: Anambra State University, Uli, Nigeria <a href="https://coou.edu.ng/" target="_blank" rel="noopener noreferrer">(ANSU-COOU)</a>
+        time: 2012
+        details: |
+          The personal educational first degree in Electrical/Electronic Engineering with a specialization in Electronics provides a comprehensive foundation in electrical and 
+          electronic systems, focusing specifically on electronic circuits, devices, and their applications. 
+          This degree equips individuals with the necessary knowledge and skills to design, analyze, and troubleshoot electronic systems used in various industries. 
+          The degree program also offers elective courses that allow students to tailor their education to their specific interests and career goals. 
+          Elective options may include power electronics, control systems, signal processing, robotics and automation, photonics and optoelectronics, and wireless sensor networks. 
+          Throughout the program, students delve into core courses such as electrical circuits and systems, electronic devices and circuits, 
+          digital electronics, and microelectronics. These courses cover the fundamental principles and techniques required to understand and work with electronic components, circuits, and systems.
+
+      - degree: Merit award as the most outstanding electrical/electronics department student 2012
+        university: Electrical/Electronics Department of Anambra State University, Uli, Nigeria <a href="https://coou.edu.ng/" target="_blank" rel="noopener noreferrer">(ANSU-COOU)</a>
+        time: 2012
+        details: |
+          The personal educational first degree in Electrical/Electronic Engineering with a specialization in Electronics provides a comprehensive foundation in electrical and 
+          electronic systems, focusing specifically on electronic circuits, devices, and their applications. 
+          This degree equips individuals with the necessary knowledge and skills to design, analyze, and troubleshoot electronic systems used in various industries. 
+          The degree program also offers elective courses that allow students to tailor their education to their specific interests and career goals. 
+          Elective options may include power electronics, control systems, signal processing, robotics and automation, photonics and optoelectronics, and wireless sensor networks. 
+          Throughout the program, students delve into core courses such as electrical circuits and systems, electronic devices and circuits, 
+          digital electronics, and microelectronics. These courses cover the fundamental principles and techniques required to understand and work with electronic components, circuits, and systems.
+
+      - degree: Best presentation award - 2nd prize at CRAS 2023
+        university: Conference on New Technologies for Computer and Robot Assisted Surgery,Paris, France <a href="https://cras-eu.org/cras-2023/" target="_blank" rel="noopener noreferrer">(CRAS2023)</a>
+        time: 2023
+        details: |
+          In this 12th edition, it was related to advances in the following fields: virtual and augmented reality techniques applied to training, planning and assisted guidance; 
+          new techniques to introduce effective haptic feedback; new devices, technologies and procedures for less invasive surgery and to facilitate the execution of complex surgical tasks; 
+          and artificial intelligence for planning, guidance and autonomous operations. For more, see <a href="https://cras-eu.org/cras-2023/" target="_blank" rel="noopener noreferrer">(CRAS2023)</a>.
+          
+experiences:
+    title: Experiences
+    info:
+      - role: Reseacher/PhD 
+        time: 2019 - Present
+        company: FEMTO-ST Institute <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
+        details: |
+          In my journey as a PhD researcher, I had the incredible opportunity to work on two groundbreaking projects which are majorly focused on the "Contribution to the Miniaturization of Continuum Robots by using Glass". The novel and new generation of robots made of glass are 
+          grouped/named as: 
+            - The Caturo: A Sub-millimetre Diameter Glass Concentric Tube Robot with High Curvature
+            - Miniature Parallel Continuum Robot Made of Glass: Analysis, Design, and Proof-of-Concept
+      - role: Teaching
+        time: 2019 - Present
+        company: UBFC, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC)</a> and SUPMICROTECH-ENSMM, France <a href="https://https://www.supmicrotech.fr/" target="_blank" rel="noopener noreferrer">(ENSMM)</a>
+        details: |
+          During my PhD, I had the opportunity to teach and mentor engineering students, master students and many interns. It was a rewarding experience that allowed me to share my knowledge and expertise with the next generation of researchers/engineers.
+          Some of the courses I gave and assisted include:
+            - Methodological Tools (CM and TP for master students)
+            - Microrobotics (TP for master students)
+            - Automatic/Control (TP for engineering students)
+      - role: Intenships
+        time: 2011 and 2019
+        company: Electronic Development and Research Institute, Awka, Nigeria <a href="https://eldi.org.ng/" target="_blank" rel="noopener noreferrer">(ELDI)</a> and Institut des Sciences du Mouvement, Aix-Marseille, France <a href="https://ism.univ-amu.fr/" target="_blank" rel="noopener noreferrer">(ISM)</a>
+        details: |
+          At ELDI, I had the opportunity to gain practical skills on designing of embedded circuits and microcontroller programming. 
+          In ISM, I gained hands-on experience integrating and validating various sensors within the ROS framework, enhancing my skills in sensor validation, data analysis, and robotics. The two projects achievements includes:
+            - Logic gates emulator/trainer board at <a href="https://eldi.org.ng/" target="_blank" rel="noopener noreferrer">ELDI</a>. 
+            - Validation of new sensor for indoor localization system at <a href="https://ism.univ-amu.fr/" target="_blank" rel="noopener noreferrer">ISM</a> sponsored by <a href="https://www.sattse.com/" target="_blank" rel="noopener noreferrer">SATT</a>.
+      - role: Site Engineer  
+        time: 2014 - 2015
+        company: VACC TECHNICAL L.T.D <a href="https://www.vacctechnical.com/" target="_blank" rel="noopener noreferrer">(VACC)</a> and ASCA RINGARDAS Nigeria L.T.D, Nigeria <a href="https://ascanigeria.com/" target="_blank" rel="noopener noreferrer">(ASCA)</a>
+        details: |
+          After gaining experience as a site engineer for industrial electrical house wiring at VACC, I transitioned to ASCA company as a site supervisor/maintenance officer.
+          At ASCA, I took on the role of overseeing maintenance operations and coordinating with technicians to ensure the efficient functioning of electrical systems and equipment on-site
+      - role: Civil Service  
+        time: 2013 - 2014/2015 - 2017
+        company: National Youth Service Corps, Sokoto, Nigeria <a href="https://www.nysc.gov.ng/" target="_blank" rel="noopener noreferrer">(NYSC)</a> and FUNAI Ebonyi, Nigeria <a href="https://funai.edu.ng/" target="_blank" rel="noopener noreferrer">(FUNAI)</a>
+        details: |
+          During my one-year compulsory National Youth Service Corps <a href="https://www.nysc.gov.ng/" target="_blank" rel="noopener noreferrer">(NYSC)</a>, I served as a mathematics teacher at a high school. In addition to my teaching role, I took on the responsibility of actively leading a community development program towards making a positive impact in the local community.
+          In 2015, I was employed as a graduate assistant at Federal University Ndufu Alike Ikwo <a href="https://funai.edu.ng/" target="_blank" rel="noopener noreferrer">(FUNAI)</a>. There, I mentored students, assisted the department, invigilated exams. I was also pursuing concurrently MPhil at <a href="https://www.unn.edu.ng/" target="_blank" rel="noopener noreferrer">UNN</a> and all these gave me valuable practical experience in academia.
+
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      I delight joy in publishing my work in an excellent, renowned and high impact factor journal publication body. Presently, I have three outstanding published scientific research papers and a conference paper, which were all achieved during my PhD. 
+    papers:
+      - title: "Design and Fabrication of Concentric Tube Robots: A Survey"
+        link: "https://ieeexplore.ieee.org/document/10086700"
+        authors: Nwafor, Chibundo and Girerd, Cédric and Laurent, Guillaume and Morimoto, Tania and Rabenorosoa, Kanty
+        conference: "IEEE Transactions on Robotics, 2023"
+        pdf: survey.pdf
+        bib: survey.bib
+
+      - title: "The Caturo: A Sub-millimetre Diameter Glass Concentric Tube Robot with High Curvature"
+        link: "https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200308"
+        authors: Nwafor, Chibundo J. and Laurent, Guillaume J. and Rougeot, Patrick and Rabenorosoa, Kanty
+        conference: "Advanced Intelligent Systems, 2023"
+        pdf: caturo.pdf
+        bib: caturo.bib
+
+      - title: "Miniature Parallel Continuum Robot Made of Glass: Analysis, Design, and Proof-of-Concept"
+        link: "https://ieeexplore.ieee.org/abstract/document/10144101"
+        authors: Nwafor, Chibundo and Laurent, Guillaume J. and Rabenorosoa, Kanty
+        conference: "IEEE/ASME Transactions on Mechatronics, 2023"
+        pdf: pcr.pdf
+        bib: pcr.bib
+        
+      - title: "Miniaturized Continuum Robot Made of Glass for Biomedical Applications"
+        link: "https://cras-eu.org/program/"
+        authors: Nwafor, Chibundo and Laurent, Guillaume J. and Rabenorosoa, Kanty
+        conference: "CRAS-Conference on New Technologies for Computer and Robot Assisted Surgery, 2023"
+        
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C/C++
+        level: 90%
+
+      - name: Python 
+        level: 75%
+        
+      - name: Assembly
+        level: 73%
+        
+      - name: Java
+        level: 70%
+
+      - name: MATLAB
+        level: 95%
+
+      - name: Solidworks
+        level: 85%
+        
+      - name: Microsoft office
+        level: 98%
+        
+      - name: Comsol Multiphysics
+        level: 70%
+
+      - name: Proteus simulation
+        level: 97%
+
+      - name: Spyder & Script
+        level: 90%
+
+      - name: Alphacam
+        level: 85%
+        
+footer: >
+    NWAFOR Chibundo Josiah
