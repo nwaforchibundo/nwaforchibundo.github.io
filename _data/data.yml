@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: NWAFOR Chibundo
-    tagline: Researcher/Doctoral student
+    tagline: Chercheur/Doctorant
     avatar: Nwaforchibundo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,8 @@ sidebar:
     phone: 075 827 9941
     timezone: France/Besançon Timezone
     citizenship:
-    website: www.femto-st.fr/en/femto-people/chibundonwafor #blog.webjeda.com #do not add http://
+    website: https://github.com/nwaforchibundo/website #blog.webjeda.com #do not add http://
+    website: https://nwaforchibundo.github.io/
     linkedin: nwafor-chibundo-66a27b203 #alandoe
     xing:  #alandoe
     github: #nwaforchibundo 
@@ -30,30 +31,30 @@ sidebar:
     pdf: NWAFOR_Chibundo_Resume1.pdf #http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Langues
       info:
-        - idiom: English
-          level: Proficient
+        - idiom: Anglais
+          level: Maîtrise
 
         - idiom: French
-          level: Basic
+          level: Intermédiaire +
 
         - idiom: Igbo
           level: Native
 
     interests:
-      title: Interests
+      title: Intérêts
       info:
-        - item: Research/Studying
+        - item: Recherche/étude
+          link: https://github.com/nwaforchibundo/website
+
+        - item: Programmation
           link:
 
-        - item: Programming
-          link:
-
-        - item: Sport
+        - item: Le sport
           link:
           
-        - item: Content creation
+        - item: Création de contenu
           link:
           
     awards: True # set to False if you want education in main section instead of in sidebar
@@ -115,7 +116,7 @@ education:
           Ces cours couvrent les principes fondamentaux et les techniques nécessaires pour comprendre et travailler avec des composants, des circuits et des systèmes électroniques.
 
 awards:
-    title: Scholarships/Awards
+    title: Bourses d'études/Prix
     info:
       - degree: Bourse d'études d'un an d'Etisalat 
         university: Anambra State University, Uli, Nigeria <a href="https://coou.edu.ng/" target="_blank" rel="noopener noreferrer">(ANSU-COOU)</a>
