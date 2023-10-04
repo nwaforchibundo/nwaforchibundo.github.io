@@ -16,7 +16,7 @@ sidebar:
     phone: 075 827 9941
     timezone: France/Besançon Timezone
     citizenship:
-    website: github.com/nwaforchibundo/website #blog.webjeda.com #do not add http://
+    website: nwaforchibundo.github.io/website/ #blog.webjeda.com #do not add http://
     linkedin: nwafor-chibundo-66a27b203 #alandoe
     xing:  #alandoe
     github: #nwaforchibundo 
@@ -338,4 +338,4 @@ skills:
         level: 85%
         
 footer: >
-    NWAFOR Chibundo Josiah
+    NWAFOR Chibundo Josiah <a href="https://nwaforchibundo.github.io/" target="_blank" rel="noopener noreferrer">(online portfolio)</a>
