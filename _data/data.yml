@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: NWAFOR_Chibundo_Resume1.pdf #http://www.africau.edu/images/default/sample.pdf
+    pdf: nwaforchibundo_cv.pdf #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Langues
