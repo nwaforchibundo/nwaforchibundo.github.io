@@ -185,6 +185,12 @@ awards:
 experiences:
     title: Expériences
     info:
+      - role: Postdoc 
+        time: 2023 - Present
+        company: FEMTO-ST Institute <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
+        details: |
+          Immédiatement après mon doctorat, j'ai commencé un poste de post-doctorant dans le même laboratoire, où j'ai dû progresser dans la reconception, la modélisation et l'intégration du 
+          robot à continuum parallèle pour l'application SEM. 
       - role: Chercheur/Doctorant 
         time: 2019 - 2023
         company: FEMTO-ST Institute <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
