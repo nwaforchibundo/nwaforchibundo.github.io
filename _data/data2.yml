@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: NWAFOR Chibundo
-    tagline: Researcher/Doctoral student
+    tagline: Postdoc
     avatar: sojo1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -189,8 +189,13 @@ awards:
 experiences:
     title: Experiences
     info:
+      - role: Postdoc 
+        time: 2023 - Present
+        company: FEMTO-ST Institute <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
+        details: |
+          Immediately after my PhD, I commenced a post-doctoral position in the same laboratory, where I had to redesign, model and integrate the new parallel continuum robot for SEM application.
       - role: Reseacher/PhD 
-        time: 2019 - Present
+        time: 2019 - 2023
         company: FEMTO-ST Institute <a href="https://www.femto-st.fr/fr/Departements-de-recherche/AS2M/Presentation" target="_blank" rel="noopener noreferrer">(FEMTO-ST)</a>
         details: |
           In my journey as a PhD researcher, I had the incredible opportunity to work on two groundbreaking projects which are majorly focused on the "Contribution to the Miniaturization of Continuum Robots by using Glass". The novel and new generation of robots made of glass are 
@@ -198,7 +203,7 @@ experiences:
             - The Caturo: A Sub-millimetre Diameter Glass Concentric Tube Robot with High Curvature
             - Miniature Parallel Continuum Robot Made of Glass: Analysis, Design, and Proof-of-Concept
       - role: Teaching
-        time: 2019 - Present
+        time: 2019 - 2023
         company: UBFC, France <a href="https://www.ubfc.fr/en/formations/masters/master-greem/" target="_blank" rel="noopener noreferrer">(UBFC)</a> and SUPMICROTECH-ENSMM, France <a href="https://https://www.supmicrotech.fr/" target="_blank" rel="noopener noreferrer">(ENSMM)</a>
         details: |
           During my PhD, I had the opportunity to teach and mentor engineering students, master students and many interns. It was a rewarding experience that allowed me to share my knowledge and expertise with the next generation of researchers/engineers.
