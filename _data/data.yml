@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: NWAFOR_Chibundo_Resume1.pdf #http://www.africau.edu/images/default/sample.pdf
+    pdf: nwaforchibundo_cv.pdf #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -67,7 +67,8 @@ career-profile:
       I take pride in being a mature team player who can adapt to challenging situations effortlessly.
       Whether collaborating with others or working independently, I consistently demonstrate my ability to deliver results. 
       I am skilled at managing pressure and adhering to strict deadlines, ensuring timely completion of tasks without compromising quality. 
-      Here is my [resume/CV](NWAFOR_Chibundo_Resume1.pdf){:target="_blank"}.
+      Here is my <a href="https://nwaforchibundo.github.io/" target="_blank" rel="noopener noreferrer">online portfolio/curriculum vitae </a> and also
+      <a href="https://nwaforchibundo.github.io/website/" target="_blank" rel="noopener noreferrer">my personal website</a>.
       
 education:
     title: Education
